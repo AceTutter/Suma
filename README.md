@@ -1,2 +1,2 @@
-# subscription-dashboard-releases
-Windows desktop installers and automatic update feed for Subscription Dashboard.
+# Suma
+Windows desktop installers and automatic update feed for Suma.
